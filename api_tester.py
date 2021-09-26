@@ -1,7 +1,7 @@
 import fire
 import requests
 
-API_HOST = "infinity-app-api.herokuapp.com"
+API_HOST = "https://infinity-app-api.herokuapp.com/"
 RESOURCE_URI = "Cryptos"
 USERNAME = "admin"
 PASSWORD = "123456"
