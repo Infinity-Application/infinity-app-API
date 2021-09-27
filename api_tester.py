@@ -1,10 +1,10 @@
 import fire
 import requests
 
-API_HOST = "http://localhost:8000"
-RESOURCE_URI = "things"
-USERNAME = "admin"
-PASSWORD = "admin"
+API_HOST = "https://infinity-app-api-1.herokuapp.com/"
+RESOURCE_URI = "Cryptos"
+USERNAME = "samer"
+PASSWORD = "12345"
 
 
 class ApiTester:
